@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Mukul2425">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+%2F+ML+Enthusiast;Python+%7C+TypeScript+%7C+JavaScript;Building+Smart+%26+Scalable+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Python+Developer+%2F+AI+Engineer;AI+%2F+ML+Enthusiast;Python+%7C+TypeScript+%7C+JavaScript;Building+Smart+%26+Scalable+Apps" alt="Typing SVG" />
   </a>
 </p>
 
@@ -10,8 +10,8 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Passionate **Full-Stack Developer** and **AI/ML Enthusiast**
-- 🔭 Currently building AI-powered applications and full-stack platforms
+- 🎓 Passionate **Python Developer / AI Engineer** and **AI/ML Enthusiast**
+- 🔭 Currently building AI-powered applications and intelligent AI platforms
 - 🌱 Exploring **LLMs**, **RAG pipelines**, and **agentic AI systems**
 - 👯 Open to collaborating on impactful open-source projects
 - 💬 Ask me about **Python**, **React**, **Django**, **TypeScript**, or **AI integrations**
